@@ -2,7 +2,7 @@
 
 ## Steps 
 
-Setup the backend server also and start it to make it work.
+Setup the backend server also to make it work.
 
 `cd frontend`
 

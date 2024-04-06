@@ -1,9 +1,12 @@
 # AIPlanetAssignment
 
+# UI Images
 ![1](https://github.com/ritwik3856/AIPlanetAssignment/assets/61063842/f9975bd0-9e26-4f11-af2a-df34dc707aa2)
 
+# Q&A regarding the pdf ( Desktop view )
 ![33](https://github.com/ritwik3856/AIPlanetAssignment/assets/61063842/85368d93-c775-42ad-8f22-b58b13da516a)
 
+# Q&A regarding the pdf ( Mobile view )
 ![55](https://github.com/ritwik3856/AIPlanetAssignment/assets/61063842/cc71cf13-8420-4a13-995a-efbb6a984600)
 
 

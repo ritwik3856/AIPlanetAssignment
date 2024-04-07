@@ -31,9 +31,9 @@ const ChatInput = () => {
       dispatch(setLoading(true));
       try{
         
-        const url =  `${config.BASEURL}/chat_message/get_answer/${doc.id}`;
-        const response = await axios.post(url, { question : message });
-        dispatch(addMessage({ text: response.data, sender: 'AI' }));
+       const url =  `${config.BASEURL}/chat_message/get_answer/${doc.id}`;
+       const response = await axios.post(url, { question : message });
+       dispatch(addMessage({ text: response.data, sender: 'AI' }));
         dispatch(setLoading(false));
       }
       catch(err){
